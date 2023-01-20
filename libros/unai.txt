@@ -1,0 +1,3 @@
+Crafting Interpreters, Robert Nystrom
+Brave New World, Aldous Huxley
+Nineteen Eighty-Four, George Orwell
